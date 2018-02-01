@@ -1,0 +1,41 @@
+8
+
+dir
+2
+http://192.168.33.11:8081/subversion/trunk/src
+http://192.168.33.11:8081/subversion
+
+
+
+2017-09-19T06:42:04.069083Z
+1
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8572def8-9d04-11e7-b64a-59b080adee7e
+
+HelloWorld.java
+file
+
+
+
+
+2018-01-27T09:09:25.766000Z
+75172a06afe1149733ad6c71f0d19616
+2017-09-19T06:42:04.069083Z
+1
+
+has-props
+
